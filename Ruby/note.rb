@@ -8,3 +8,8 @@ puts "hi";
 多行
 注释
 =end
+
+=begin
+puts "hi";
+puts "hi";
+=end
